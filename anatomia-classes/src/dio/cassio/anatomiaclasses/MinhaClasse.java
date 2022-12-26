@@ -1,3 +1,5 @@
+package dio.cassio.anatomiaclasses;
+
 public class MinhaClasse {
     public static void main(String[] args) {
         // Declarando variáveis e métodos
