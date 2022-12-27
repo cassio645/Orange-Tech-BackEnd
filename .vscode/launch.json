@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NewAboutMe",
+            "request": "launch",
+            "mainClass": "dio.cassio.terminalargumentos.NewAboutMe",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletimEstdantil",
+            "request": "launch",
+            "mainClass": "dio.cassio.anatomiaclasses.BoletimEstdantil",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "dio.cassio.anatomiaclasses.MinhaClasse",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comentarios",
+            "request": "launch",
+            "mainClass": "dio.cassio.javadoc.Comentarios",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "dio.cassio.metodos.Usuario",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Incremento",
+            "request": "launch",
+            "mainClass": "dio.cassio.operadores.Incremento",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadorUnario",
+            "request": "launch",
+            "mainClass": "dio.cassio.operadores.OperadorUnario",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "dio.cassio.operadores.Operadores",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Relacionais",
+            "request": "launch",
+            "mainClass": "dio.cassio.operadores.Relacionais",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ternario",
+            "request": "launch",
+            "mainClass": "dio.cassio.operadores.Ternario",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "dio.cassio.terminalargumentos.AboutMe",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "dio.cassio.terminalargumentos.MinhaClasse",
+            "projectName": "dio-java-basico_86919563"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constantes",
+            "request": "launch",
+            "mainClass": "dio.cassio.tiposvariaveis.Constantes",
+            "projectName": "dio-java-basico_86919563"
+        }
+    ]
+}

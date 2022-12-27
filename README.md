@@ -10,9 +10,9 @@
 
 - Conhecendo a Linguagem de Programação Java 
    - [x] Aprendendo a Sintaxe Java
-   - [] Lógica Condicional e Controle de Fluxos em java
-   - [] Estruturas de Repetição e Arrays em java
-   - [] Entendendo Métodos Java
+   - [ ] Lógica Condicional e Controle de Fluxos em java
+   - [ ] Estruturas de Repetição e Arrays em java
+   - [ ] Entendendo Métodos Java
 - Desafios de Código
 
 ### DIO._ Orange Tech + | BackEnd 2022
