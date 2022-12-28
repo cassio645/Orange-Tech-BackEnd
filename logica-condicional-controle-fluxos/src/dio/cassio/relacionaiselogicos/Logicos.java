@@ -1,0 +1,37 @@
+package dio.cassio.relacionaiselogicos;
+/**
+ * Classe de exemplo para o exercício da Aula 2 de operadores lógicos e relacionais
+ */
+
+public class Logicos {
+    public static void main(String[] args) {
+
+        boolean b1 = true;
+        boolean b2 = false;
+        boolean b3 = true;
+        boolean b4 = false;
+
+        // testando o operador &&(and)
+        System.out.println("b1 && b2 " + (b1 && b2));
+        System.out.println("b1 && b3 " + (b1 && b3));
+
+        // testando o operador ||(or)
+        System.out.println("b2 || b3 " + (b2 || b3));
+        System.out.println("b2 || b4 " + (b2 || b4));
+
+        // testando o operador ^(xor)
+        System.out.println("b1 ^ b3 " + (b1 ^ b3));
+        System.out.println("b4 ^ b1 " + (b4 ^ b1));
+
+        // testando o operador !(not)
+        System.out.println(!b1);
+        System.out.println(!b2);
+
+        int i1 = 10;
+        int i2 = 20;
+        float f1 = 20f;
+        float f2 = 50f;
+        System.out.println("((i1 + i2) < (f2 - f1)) && true " + (((i1 + i2) < (f2 - f1)) && true));
+        System.out.println("(i1 > i2) || (f2 < f1) " + ((i1 > i2) || (f2 < f1)));
+    }
+}
