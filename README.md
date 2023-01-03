@@ -15,7 +15,7 @@
    - [x] Entendendo Métodos Java
 - Desafios de Código
 - Programação Orientada a Objetos com Java
-  - [ ] Programação Orientada a Objetos
+  - [x] Programação Orientada a Objetos
   - [ ] Trabalhando com Collections Java
   - [ ] Debugging Java
   - [ ] Tratamento de Exceções em Java
