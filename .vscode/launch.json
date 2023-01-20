@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DownloadPacotes",
+            "request": "launch",
+            "mainClass": "dio.cassio.desafios.DownloadPacotes",
+            "projectName": "Orange-Tech-BackEnd_22442476"
+        },
+        {
+            "type": "java",
             "name": "Launch NewAboutMe",
             "request": "launch",
             "mainClass": "dio.cassio.terminalargumentos.NewAboutMe",

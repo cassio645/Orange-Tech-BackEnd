@@ -16,7 +16,7 @@
 - Desafios de Código
 - Programação Orientada a Objetos com Java
   - [x] Programação Orientada a Objetos
-  - [ ] Trabalhando com Collections Java
+  - [x] Trabalhando com Collections Java
   - [ ] Debugging Java
   - [ ] Tratamento de Exceções em Java
   - [ ] Abstraindo um Bootcamp
