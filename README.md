@@ -17,7 +17,7 @@
 - Programação Orientada a Objetos com Java
   - [x] Programação Orientada a Objetos
   - [x] Trabalhando com Collections Java
-  - [ ] Debugging Java
+  - [x] Debugging Java
   - [ ] Tratamento de Exceções em Java
   - [ ] Abstraindo um Bootcamp
 
