@@ -18,8 +18,8 @@
   - [x] Programação Orientada a Objetos
   - [x] Trabalhando com Collections Java
   - [x] Debugging Java
-  - [ ] Tratamento de Exceções em Java
-  - [ ] Abstraindo um Bootcamp
+  - [x] Tratamento de Exceções em Java
+  - [x] Abstraindo um Bootcamp
 
 ### DIO._ Orange Tech + | BackEnd 2022
 <div style="text-align: center">
