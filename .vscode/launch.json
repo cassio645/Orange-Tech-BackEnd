@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Camarote",
+            "request": "launch",
+            "mainClass": "dio.cassio.desafios.Camarote",
+            "projectName": "Orange-Tech-BackEnd_22442476"
+        },
+        {
+            "type": "java",
+            "name": "Launch DcMonalds",
+            "request": "launch",
+            "mainClass": "dio.cassio.desafios.DcMonalds",
+            "projectName": "Orange-Tech-BackEnd_22442476"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImoveisDisponiveis",
+            "request": "launch",
+            "mainClass": "dio.cassio.desafios.ImoveisDisponiveis",
+            "projectName": "Orange-Tech-BackEnd_22442476"
+        },
+        {
+            "type": "java",
+            "name": "Launch PontosCarteira",
+            "request": "launch",
+            "mainClass": "dio.cassio.desafios.PontosCarteira",
+            "projectName": "Orange-Tech-BackEnd_22442476"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalvandoMusicas",
+            "request": "launch",
+            "mainClass": "dio.cassio.desafios.SalvandoMusicas",
+            "projectName": "Orange-Tech-BackEnd_22442476"
+        },
+        {
+            "type": "java",
             "name": "Launch DownloadPacotes",
             "request": "launch",
             "mainClass": "dio.cassio.desafios.DownloadPacotes",
