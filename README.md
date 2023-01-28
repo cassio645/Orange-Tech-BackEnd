@@ -21,7 +21,7 @@
   - [x] Tratamento de Exceções em Java
   - [x] Abstraindo um Bootcamp
 
-### DIO._ Orange Tech + | BackEnd 2022
+### DIO._ Orange Tech + | BackEnd 2022.
 <div style="text-align: center">
 <img src="https://hermes.digitalinnovation.one/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png" width="140px;" alt=""/>
 </div>
