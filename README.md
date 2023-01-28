@@ -3,7 +3,7 @@
 
 
 ## Tecnologias usadas
-- Java Openjdk 18.0.2-ea
+- Java Openjdk 18.0.2
 - VsCode
 
 ## Trilha de Aprendizagem
